@@ -1,0 +1,116 @@
+/* style consistent with mobile and desktop */
+body {
+margin: 0;
+background-image: url("splash.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+max-height: 100vh;
+max-width: 100vw;
+}
+
+body#bioBody {
+margin: 0;
+background-image: url("bios.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+a, a:visited, a:hover {
+text-decoration: none;
+color: #ffa994;
+}
+
+#primContainer {
+margin: -20px 0 0 0;
+padding: 10vh 0 0 0;
+}
+
+#container {
+margin: 0 0 0 0;
+}
+
+#splash {
+
+}
+
+#primHead {
+color: #ffa994;
+text-align: center;
+}
+
+#primNav, #secNav {
+background-color: black;
+text-align: center;
+}
+
+#primNav ul, #secNav ul {
+margin: 0;
+padding: 0 1vw;
+text-align: center;
+}
+
+#primNav ul li, #secNav ul li{
+display: inline;
+}
+
+#backArrow {
+border: solid;
+color: #ffa994;
+border-width: 0 5px 5px 0;
+float: left;
+margin: -8px 0 0 20px;
+padding: 15px;
+transform: rotate(135deg);
+-webkit-transform: rotate(135deg);
+}
+
+/* desktop style */
+@media only screen and (min-width: 1000px) {
+#splash {
+
+}
+
+#primHead {
+color: #ffa994;
+font-size: 10vw;
+letter-spacing: 2vw;
+text-align: center;
+margin: 0 auto;
+}
+
+#primNav, #secNav {
+text-align: center;
+}
+
+#primNav {
+min-width: 500px;
+width: 50vw; 
+margin: 10vh auto 0 auto;
+}
+
+#secNav {
+width: 100%;
+margin: 0;
+position: fixed;
+}
+
+#primNav ul, #secNav ul {
+margin: 0;
+padding: 25px 0;
+}
+
+#primNav ul li, #secNav ul li {
+display: inline;
+letter-spacing: 0.5vw;
+margin: 0 2vw;
+}
+}
+/* end desktop style */
+
+/* mobile style */
+@media only screen and (max width: 1000px) {
+
+
+
+}

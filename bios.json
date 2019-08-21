@@ -1,0 +1,21 @@
+{
+  {"people": [
+    {"name":"Ken Kuriscak", "instrument":"alto saxophone", "bio":""},
+    {"name":"Craig Incontro", "instrument":"alto saxophone", "bio":""},
+    {"name":"Andy Weinzler", "instrument":"tenor saxophone", "bio":""},
+    {"name":"Chris Peracciny", "instrument":"tenor saxophone",  "bio":""},
+    {"name":"Harry Fackelman", "instrument":"baritone saxophone",  "bio":""},
+    {"name":"Chris Dempsey", "instrument":"trombone", "bio":""},
+    {"name":"John Hasselback", "instrument":"trombone", "bio":""},
+    {"name":"Alan Jaenecke", "instrument":"trombone", "bio":""},
+    {"name":"Lon Gormley", "instrument":"trombone", "bio":""},
+    {"name":"Joe Parisi", "instrument":"trumpet", "bio":""},
+    {"name":"Paul Wos", "instrument":"trumpet", "bio":""},
+    {"name":"Brandon Choi", "instrument":"trumpet", "bio":""},
+    {"name":"Joe Martino", "instrument":"trumpet", "bio":""},
+    {"name":"Pat Georger", "instrument":"piano",, "bio":""},
+    {"name":"Jack Kulp", "instrument":"bass", "bio":""},
+    {"name":"Danny Hull", "instrument":"drums", "bio":""},
+    {"name":"Alec Dube", "instrument":"vibraphone", "bio":""}
+  ]
+}
